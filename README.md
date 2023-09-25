@@ -16,19 +16,7 @@
   "learning": "stuff+",
   "hasBrainDamage": true
   "GonnaDie?": false
-  "Games":
-
-1. Tetris
-2. Roblox
-3. Trackania
-4. Minecraft
-5. Big Bang Racing, the original [Game got deleted, og player.] 
-6. Slope (yessir)
-7. Minecraft
-8. Bloons TD
-9. Pixel Gun 3D? (quit a long time ago...)
-10. Honkai: Star Rail (only play sometimes)
-
+  "Games": Tetris, Roblox, Trackmania, Big Bang Racing (og player), Pixel Gun 3D (og player), Honkai: Star Rail
 }
 ```
 <img src="https://komarev.com/ghpvc/?username=Lud1q&label=Why do i care? I dont. &color=001eff&style=flat" alt="Lud1q" />
