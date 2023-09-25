@@ -16,6 +16,18 @@
   "learning": "stuff+",
   "hasBrainDamage": true
   "GonnaDie?": false
+  "Games":
+
+1. Tetris
+2. Roblox
+3. Trackania
+4. Minecraft
+5. Big Bang Racing, the original [Game got deleted, og player.] 
+6. Slope (yessir)
+7. Minecraft
+8. Bloons TD
+9. Pixel Gun 3D? (quit a long time ago...)
+10. Honkai: Star Rail (only play sometimes)
 
 }
 ```
