@@ -30,6 +30,15 @@
 
   "GonnaDie?": false
 
+"Inspriration?":
+
+  "Pengiunify",
+    "3kh0",
+      "BlazerHM",
+        "Titanium Network",
+
+          Thank You.
+
 }
 ```
 <img src="https://komarev.com/ghpvc/?username=Lud1q&label=Why do i care? I dont. &color=001eff&style=flat" alt="Lud1q" />
