@@ -33,11 +33,11 @@
 "Inspriration?":
 
   "Pengiunify",
-    "3kh0",
-      "BlazerHM",
-        "Titanium Network",
+    "BlazerHM",
+      "Titanium Network",
+        "3kh0",
 
-          Thank You.
+          Thank You...
 
 }
 ```
