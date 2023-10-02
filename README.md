@@ -45,4 +45,4 @@
 
 *P.S. Yeah, ripped off from 3kh0..*
 
-![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=gruvbox)
+![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=green)
