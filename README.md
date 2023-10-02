@@ -1,9 +1,10 @@
+![Ludi's status](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=vue-dark)
+
+
 ## Hi 👋, I'm Lud1q ##
 
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
 
-
-![Ludi's status](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=vue-dark)
 
 
 ```json
