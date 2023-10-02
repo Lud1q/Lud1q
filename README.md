@@ -44,3 +44,5 @@
 <img src="https://komarev.com/ghpvc/?username=Lud1q&label=Why do i care? I dont. &color=001eff&style=flat" alt="Lud1q" />
 
 *P.S. Yeah, ripped off from 3kh0..*
+
+![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=gruvbox)
