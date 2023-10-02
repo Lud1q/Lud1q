@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lud1q ## 
+## Hi 👋, I'm Lud1q ##
 
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
 
@@ -45,4 +45,4 @@
 
 *P.S. Yeah, ripped off from 3kh0..*
 
-![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=green)
+![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=black)
