@@ -13,7 +13,7 @@ i dont know why the text is blue sometimes.
 
   "age": 13,
 
-  "intrests": ["programming", "gaming", "school unblocking", "idk"],
+  "intrests": ["programming", "gaming", "idk"],
 
   "operatingSystem": "A chromebook :(",
 
