@@ -1,4 +1,4 @@
-![Ludi's status](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=vue-dark)
+![Sudo's status](https://github-readme-stats.vercel.app/api?username=Su4o&show_icons=true&theme=vue-dark)
 
 
 ## Hi 👋, I'm Su4o (4 stands for d in the alphabet) ##
