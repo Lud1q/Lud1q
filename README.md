@@ -48,6 +48,6 @@ i dont know why the text is blue sometimes.
 
 }
 ```
-![](https://komarev.com/ghpvc/?Su4o&style=flat-square)
+[![Hello👋,](https://hits.sh/github.com/Su4o/hits.svg)](https://hits.sh/github.com/Su4o/hits/flat-square)
 
 *P.S. Yeah, ripped off from 3kh0..*
