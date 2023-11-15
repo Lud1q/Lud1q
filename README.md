@@ -21,7 +21,7 @@ i dont know why the text is blue sometimes.
 
   "programmingLanguages": ["HTML", "CSS", "JS?"],
 
-  "LearingProgramLaunguages": ["~~TypeScript~~", "JS"],
+  "LearingProgramLaunguages": ["JS"],
 
   "editor": "Codesandbox",
 
