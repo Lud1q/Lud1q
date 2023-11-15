@@ -1,7 +1,7 @@
 ![Ludi's status](https://github-readme-stats.vercel.app/api?username=Lud1q&show_icons=true&theme=vue-dark)
 
 
-## Hi 👋, I'm Lud1q ##
+## Hi 👋, I'm Su4o (4 stands for d in the alphabet) ##
 
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
 
@@ -21,7 +21,7 @@ i dont know why the text is blue sometimes.
 
   "programmingLanguages": ["HTML", "CSS", "JS?"],
 
-  "LearingProgramLaunguages": ["TypeScript", "JS"],
+  "LearingProgramLaunguages": ["~~TypeScript~~", "JS"],
 
   "editor": "Codesandbox",
 
@@ -29,7 +29,7 @@ i dont know why the text is blue sometimes.
 
   "learning": "stuff+",
 
-  "Games": ["Tetris", "Roblox", "Trackmania", "Big Bang Racing (og player)", "Pixel Gun 3D (og player)", "Honkai: Star Rail"],
+  "Games": ["Tetris", "Roblox", "Trackmania", "Big Bang Racing (og player)", "Pixel Gun 3D (og player)"],
 
   "hasBrainDamage": true
 
@@ -40,7 +40,9 @@ i dont know why the text is blue sometimes.
   "Pengiunify",
     "BlazerHM",
       "Titanium Network",
-        "3kh0",
+        "coolelectronics"
+         "3kh0",
+
 
           Thank You...
 
