@@ -48,6 +48,6 @@ i dont know why the text is blue sometimes.
 
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=Lud1q&label=Why do i care? I dont. &color=001eff&style=flat" alt="Lud1q" />
+<img src="https://komarev.com/ghpvc/?username=Su4o&label=Why do i care? I dont. &color=001eff&style=flat" alt="Su4o" />
 
 *P.S. Yeah, ripped off from 3kh0..*
