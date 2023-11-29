@@ -53,10 +53,6 @@ i dont know why the text is blue sometimes.
 *P.S. Yeah, ripped off from 3kh0..*
 
 
-░█▀▀█ █▀▀█ █▀▀ █░░█ 　 ▒█▀▀▀█ █░░█ █▀▀ ▀▀█▀▀ █▀▀ █▀▄▀█ 
-▒█▄▄█ █▄▄▀ █░░ █▀▀█ 　 ░▀▀▀▄▄ █▄▄█ ▀▀█ ░░█░░ █▀▀ █░▀░█ 
-▒█░▒█ ▀░▀▀ ▀▀▀ ▀░░▀ 　 ▒█▄▄▄█ ▄▄▄█ ▀▀▀ ░░▀░░ ▀▀▀ ▀░░░▀
-
                    -`                   
                   .o+`                  --------------- 
                  `ooo/                  OS: ChromeOS
@@ -66,18 +62,12 @@ i dont know why the text is blue sometimes.
              `/:-:++oooo+:              Uptime: N/A
             `/++++/+++++++:             Shell: Crosh
            `/++++++++++++++:            Resolution: 1366 x 768
-          `/+++ooooooooooooo/`          
-         ./ooosssso++osssssso+`         
-        .oossssso-````/ossssss+`        
+          `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
+         ./ooosssso++osssssso+`         GPU: N/A :huh:
+        .oossssso-````/ossssss+`        Memory: 1751.04 MiB / 7823.36 MiB
        -osssssso.      :ssssssso.       OSTheme: Old
       :osssssss/        osssso+++.      Icons: Normal
-     /ossssssss/        +ssssooo/-      Terminal: Chrome Shell
-   `/ossssso+/:-        -:/+osssso+-    CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz)
-  `+sso+:-`                 `.-/+oso:   GPU: N/A :huh:
- `++:.                           `-/+/  Memory: 1751.04 MiB / 7823.36 MiB
- .`                                 `/  
-
- yeah one day I want to use arch linux :( 
-                                                                
+     /ossssssss/        +ssssooo/-      PU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
+ 
                                                                 
 
