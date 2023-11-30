@@ -1,15 +1,33 @@
-![Sudo's status](https://github-readme-stats.vercel.app/api?username=Su4o&show_icons=true&theme=vue-dark)
-
-
 ## Hi 👋, I'm Su4o (4 stands for d in the alphabet) ##
 
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
 
 i dont know why the text is blue sometimes.
 
+                   -`                   
+                  .o+`                  --------------- 
+                 `ooo/                  OS: ChromeOS
+                `+oooo:                 Host: N/A
+               `+oooooo:                Kernel:  N/A
+               -+oooooo+:               Grabbiter: Nope
+             `/:-:++oooo+:              Uptime: N/A
+            `/++++/+++++++:             Shell: Crosh
+           `/++++++++++++++:            Resolution: 1366 x 768
+          `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
+         ./ooosssso++osssssso+`         GPU: N/A :huh:
+        .oossssso-````/ossssss+`        Memory: 1751.04 MiB / 7823.36 MiB
+       -osssssso.      :ssssssso.       OSTheme: Old
+      :osssssss/        osssso+++.      Icons: Normal
+     /ossssssss/        +ssssooo/-      $ neofetch
+
+
+
+
 ```json
+
+
 {
-  "name": "Ludiq",
+  "name": "Su4o",
 
   "age": 13,
 
@@ -48,26 +66,10 @@ i dont know why the text is blue sometimes.
 
 }
 ```
+
 [![Hello👋,](https://hits.sh/github.com/Su4o/hits.svg)](https://hits.sh/github.com/Su4o/hits/flat-square)
 
-*P.S. Yeah, ripped off from 3kh0..*
-
-
-                   -`                   
-                  .o+`                  --------------- 
-                 `ooo/                  OS: ChromeOS
-                `+oooo:                 Host: N/A
-               `+oooooo:                Kernel:  N/A
-               -+oooooo+:               Grabbiter: Nope
-             `/:-:++oooo+:              Uptime: N/A
-            `/++++/+++++++:             Shell: Crosh
-           `/++++++++++++++:            Resolution: 1366 x 768
-          `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
-         ./ooosssso++osssssso+`         GPU: N/A :huh:
-        .oossssso-````/ossssss+`        Memory: 1751.04 MiB / 7823.36 MiB
-       -osssssso.      :ssssssso.       OSTheme: Old
-      :osssssss/        osssso+++.      Icons: Normal
-     /ossssssss/        +ssssooo/-      $ neofetch
+![Sudo's status](https://github-readme-stats.vercel.app/api?username=Su4o&show_icons=true&theme=vue-dark)
 
                           
 
