@@ -6,7 +6,7 @@ i dont know why the text is blue sometimes.
 
                    -`                   
                   .o+`                  --------------- 
-                 `ooo/                  Always wanted to download arch linux... _never had._
+                 `ooo/                  Always wanted to download arch linux... never had.
                 `+oooo:                 OS: ChromeOS
                `+oooooo:                Kernel:  N/A
                -+oooooo+:               Grabbiter: Nope
