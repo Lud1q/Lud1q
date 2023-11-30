@@ -53,14 +53,18 @@ i dont know why the text is blue sometimes.
 *P.S. Yeah, ripped off from 3kh0..*
 
 
+
+$ neofetch
+
+
                    -`                   
                   .o+`                  --------------- 
                  `ooo/                  OS: ChromeOS
                 `+oooo:                 Host: N/A
-               `+oooooo:                Kernel: 5.15.130-20472-g682e24dd583b (ChromeOS)
+               `+oooooo:                Kernel:  6.1.38
                -+oooooo+:               Grabbiter: N/A
              `/:-:++oooo+:              Uptime: N/A
-            `/++++/+++++++:             Shell: Crosh
+            `/++++/+++++++:             Shell: ash
            `/++++++++++++++:            Resolution: 1366 x 768
           `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
          ./ooosssso++osssssso+`         GPU: N/A :huh:
@@ -68,6 +72,8 @@ i dont know why the text is blue sometimes.
        -osssssso.      :ssssssso.       OSTheme: Old
       :osssssss/        osssso+++.      Icons: Normal
      /ossssssss/        +ssssooo/-      PU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
+                          
+
  
                                                                 
 
