@@ -10,13 +10,13 @@ i dont know why the text is blue sometimes.
                 `+oooo:                 OS: ChromeOS
                `+oooooo:                Kernel:  N/A
                -+oooooo+:               Grabbiter: Nope
-             `/:-:++oooo+:              Uptime: N/A
+             `/:-:++oooo+:              Uptime: downtime :<
             `/++++/+++++++:             Shell: Crosh
            `/++++++++++++++:            Resolution: 1366 x 768
           `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
          ./ooosssso++osssssso+`         GPU: N/A :waitwhat:
         .oossssso-````/ossssss+`        Memory: 1751.04 MiB / 7823.36 MiB
-       -osssssso.      :ssssssso.       OSTheme: Old
+       -osssssso.      :ssssssso.       ChromeOSTheme: Old
       :osssssss/        osssso+++.      Icons: Normal
      /ossssssss/        +ssssooo/-      $ neofetch
 
