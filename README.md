@@ -31,7 +31,13 @@ i dont know why the text is blue sometimes.
 
   "age": 13,
 
-  "intrests": ["programming", "gaming", "idk"],
+  "intrests": ["programming", "gaming", "jailbreaking", "idk"],
+
+  "Devices?": ["IPad 6gen | IOS 16.1", "Brother's IPad Air 2 | IOS 14.8"]
+
+  "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool", "Palera1n", "Taurine"],
+
+  "root?": nah we go rootless, 
 
   "operatingSystem": "A chromebook :(",
 
@@ -58,7 +64,7 @@ i dont know why the text is blue sometimes.
   "Pengiunify",
     "BlazerHM",
       "Titanium Network",
-        "coolelectronics"
+        "coolelectronics",
          "3kh0",
 
 
@@ -66,6 +72,7 @@ i dont know why the text is blue sometimes.
 
 }
 ```
+
 
 [![Hello👋,](https://hits.sh/github.com/Su4o/hits.svg)](https://hits.sh/github.com/Su4o/hits/flat-square)
 
