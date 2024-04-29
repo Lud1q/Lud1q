@@ -35,13 +35,13 @@ i dont know why the text is blue sometimes.
 
   "Devices?": ["IPad 6gen | IOS 16.1", "Brother's IPad Air 2 | IOS 14.8"]
 
-  "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool 💀", "Palera1n", "Taurine"],
+  "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool 💀", "Palera1n", "Taurine", "Dopamine 2"],
 
-  "root?": "nah we go rootless",
+  "rootjb?": "nah we go rootless",
 
-  "operatingSystem": "A chromebook :(",
+  "operatingSystem": "ChromeOs, Windows, IPadOS, ZorinOS",
 
-  "browser": "Chrome",
+  "browser": "Chrome & OperaGX",
 
   "programmingLanguages": ["HTML", "CSS", "JS?"],
 
@@ -49,11 +49,11 @@ i dont know why the text is blue sometimes.
 
   "editor": "Codesandbox",
 
-  "SchoolGrade": ["A++ (Unoffical)"],
+  "SchoolGrade": ["A++ (Very Unoffical)"],
 
   "learning": "nothin+",
 
-  "Games": ["Tetris", "Roblox", "Trackmania", "Big Bang Racing (og player)", "Pixel Gun 3D (og player)"],
+  "Games": ["Tetris", "Roblox", "Trackmania", "BBR", "PG3D"],
 
   "hasBrainDamage": true
 
